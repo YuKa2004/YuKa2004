@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ```python
 aboutMe = {
     Name      : "Yuvraj Kashyap",
-    Interests :["VLSI Design",""Programming","Machine Learning","Robotics","Chess", "Music"],
+    Interests :[""VLSI Design"",""Programming","Machine Learning","Robotics","Chess", "Music"],
     Languages :["Verilog","Python","C","Javascript"],
 }
 ```
